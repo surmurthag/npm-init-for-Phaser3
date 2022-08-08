@@ -1,0 +1,32 @@
+{
+  "name": "npm-init-for-Phaser3",
+  "version": "1.0.0",
+  "description": "different git grouping my achievements with Phaser3 in JS",
+  "main": "index.js",
+  "author": "PINCHON Fabrice Surmurthag (http://surmurthag.github.io)",
+  "dependencies": {
+    "phaser-matter-collision-plugin": "",
+    "phaser3-plugin-isometric": ""
+  },
+  "directories": {
+    "lib": "lib",
+    "dist": "dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surmurthag/"
+  },
+  "bugs": {
+    "url": "https://github.com/surmurthag/npm-init-phaser3/issues"
+  },
+  "keywords": [
+    "phaser",
+    "html5",
+    "video-game"
+  ],
+  "license": "MIT",
+  "homepage": "https://https://github.com/surmurthag/npm-init-phaser3/blob/master/README.md",
+  "scripts": {
+    "test": "Error: no test specified\" && exit 1"
+  }
+}
