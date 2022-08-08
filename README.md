@@ -10,7 +10,7 @@ In your home directory, create a file called
 
 On the command line, navigate to the root directory of your package.
 <pre class="  language-javascript"><code class="  language-javascript">
-cd /path/to/package
+cd/path/to/package
 </code></pre>
 Run the following command:
 <pre class="  language-javascript"><code class="  language-javascript">
