@@ -5,7 +5,7 @@ If you expect to create many package.json files, you can customize the questions
 
 In your home directory, create a file called 
 <pre class="  language-javascript"><code class="  language-javascript">
-.npm-init.js.
+.npm-init.js
 </code></pre>
 
 On the command line, navigate to the root directory of your package.
