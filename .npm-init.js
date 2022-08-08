@@ -9,10 +9,10 @@ exports.directories = {
   dist: 'dist'
 }
 exports.repository = 'https://github.com/surmurthag/'
-exports.bugs = 'https://github.com/surmurthag/npm-init-phaser3/issues'
+exports.bugs = 'https://github.com/surmurthag/npm-init-for-Phaser3/issues'
 exports.keywords = 'phaser, html5, video-game'
 exports.license = 'MIT'
-exports.homepage = 'https://https://github.com/surmurthag/npm-init-phaser3/blob/master/README.md'
+exports.homepage = 'https://github.com/surmurthag/npm-init-for-Phaser3/blob/master/README.md'
 exports.scripts = {
   test: 'Error: no test specified\" && exit 1'
 }

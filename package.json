@@ -17,7 +17,7 @@
     "url": "https://github.com/surmurthag/"
   },
   "bugs": {
-    "url": "https://github.com/surmurthag/npm-init-phaser3/issues"
+    "url": "https://github.com/surmurthag/npm-init-for-Phaser3/issues"
   },
   "keywords": [
     "phaser",
@@ -25,7 +25,7 @@
     "video-game"
   ],
   "license": "MIT",
-  "homepage": "https://https://github.com/surmurthag/npm-init-phaser3/blob/master/README.md",
+  "homepage": "https://github.com/surmurthag/npm-init-for-Phaser3/blob/master/README.md",
   "scripts": {
     "test": "Error: no test specified\" && exit 1"
   }
